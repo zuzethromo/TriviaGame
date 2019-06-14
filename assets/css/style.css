@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/memphis-colorful.png");
+}
+
+h1 {
+    color: rgb(70, 146, 70);
+    font-size: 80px;
+    text-align: center;
+}
+
+#button {
+    background-color: rgb(30, 221, 94);
+    text-align: center;
+}
