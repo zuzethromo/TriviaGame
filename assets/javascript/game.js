@@ -56,7 +56,7 @@ $("#start").on("click", function(){
           }
         }
     
-        $('#subWrapper').append('<br><button id="end">Submit</button>')
+        $('#subWrapper').append('<br><br><br><button id="end">Submit</button>')
 
       },
       done: function(){
